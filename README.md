@@ -1,4 +1,3 @@
-vim-tasteful
+tasteful.vim
 ============
-
-Tasteful vim settings.
+Modest, tasteful vim configuration.
